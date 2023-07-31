@@ -1,5 +1,7 @@
 # Text_Editor-Progressive_Web_Application
 
+![Text Editor ScreenShot](./Main/client/src/images/Text%20Editor%20Screenshot.png)
+
 ## Description
 
 This Text Editor application is a single-page application that meets the PWA criteria. Users can get and store data to an IndexedDB database. It features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
