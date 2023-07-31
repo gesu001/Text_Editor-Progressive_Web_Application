@@ -39,7 +39,7 @@ Then open browser http://localhost:3000/ to run this application on your local m
 
 ## Deployed Link
 
-The application is deployed in Heroku [Text Editor](https://murmuring-gorge-17088-d415f274726e.herokuapp.com/).
+The application is deployed in Heroku [Text Editor](https://agile-mesa-54538-1f83cc716a32.herokuapp.com/).
 
 ## Technologies Used
 
